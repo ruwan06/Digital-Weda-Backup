@@ -1,0 +1,12 @@
+D:\Project\VS\Digital Weda Backup\Digital Weda Backup\bin\Debug\Digital Weda Backup.exe.config
+D:\Project\VS\Digital Weda Backup\Digital Weda Backup\bin\Debug\Digital Weda Backup.exe
+D:\Project\VS\Digital Weda Backup\Digital Weda Backup\bin\Debug\Digital Weda Backup.pdb
+D:\Project\VS\Digital Weda Backup\Digital Weda Backup\obj\Debug\Digital Weda Backup.csprojResolveAssemblyReference.cache
+D:\Project\VS\Digital Weda Backup\Digital Weda Backup\obj\Debug\Digital_Weda_Backup.Properties.Resources.resources
+D:\Project\VS\Digital Weda Backup\Digital Weda Backup\obj\Debug\Digital Weda Backup.csproj.GenerateResource.Cache
+D:\Project\VS\Digital Weda Backup\Digital Weda Backup\obj\Debug\Digital Weda Backup.exe
+D:\Project\VS\Digital Weda Backup\Digital Weda Backup\obj\Debug\Digital Weda Backup.pdb
+D:\Project\VS\Digital Weda Backup\Digital Weda Backup\obj\Debug\Digital_Weda_Backup.BackupFrm.resources
+D:\Project\VS\Digital Weda Backup\Digital Weda Backup\bin\Debug\MySql.Data.dll
+D:\Project\VS\Digital Weda Backup\Digital Weda Backup\bin\Debug\mysqlbackup.dll
+D:\Project\VS\Digital Weda Backup\Digital Weda Backup\obj\Debug\Digital Weda Backup.csproj.Digital Weda Backup.exe.config
